@@ -106,3 +106,4 @@ dist
 
 # ETC
 .DS_Store
+assets/.DS_Store
